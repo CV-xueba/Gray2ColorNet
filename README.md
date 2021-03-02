@@ -2,6 +2,12 @@
 
 This is a release of [Gray2ColorNet: Transfer More Colors from Reference Image](https://dl.acm.org/doi/10.1145/3394171.3413594).
 
+## Pretrained Models
+
+You can download the pretrained model from [https://drive.google.com/file/d/1fgBjqrWLEGiAV60BqMV-LrGKVv_N2uqW/view?usp=sharing](https://drive.google.com/file/d/1fgBjqrWLEGiAV60BqMV-LrGKVv_N2uqW/view?usp=sharing).
+
+Unzip the model weight files and move them to ./checkpoints/imagenet/
+
 ### How do I cite Gray2ColorNet?
 ```
 @inproceedings{lu2020gray2colornet,
