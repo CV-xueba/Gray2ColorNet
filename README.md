@@ -27,6 +27,8 @@ For help or issues using Gray2ColorNet, please submit a GitHub issue.
 
 For personal communication related to Gray2ColorNet, please contact Peng Lu (lupeng@bupt.edu.cn).
 
+### Paper picture
+
 <img src='imgs/img1.png' width="800px"/>
 <img src='imgs/img2.png' width="800px"/>
 <img src='imgs/img3.png' width="800px"/>
