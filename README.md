@@ -26,3 +26,12 @@ If we submit the paper to a conference or journal, we will update the BibTeX.
 For help or issues using Gray2ColorNet, please submit a GitHub issue.
 
 For personal communication related to Gray2ColorNet, please contact Peng Lu (lupeng@bupt.edu.cn).
+
+<img src='imgs/img1.png' width="800px"/>
+<img src='imgs/img2.png' width="800px"/>
+<img src='imgs/img3.png' width="800px"/>
+<img src='imgs/img4.png' width="800px"/>
+<img src='imgs/img5.png' width="800px"/>
+<img src='imgs/img6.png' width="800px"/>
+<img src='imgs/img7.png' width="800px"/>
+<img src='imgs/img8.png' width="800px"/>
